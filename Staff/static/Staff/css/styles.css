@@ -11366,3 +11366,7 @@ footer.footer {
   padding-top: 4rem;
   padding-bottom: 4rem;
 }
+
+.showcase-2 {
+  background-image: url('../assets/img/bg-showcase-2.jpg');
+}
